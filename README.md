@@ -28,11 +28,11 @@ ___________________________________________
 ### Technical Acceptance Criteria: **40%**
 Satisfies all of the preceding acceptance criteria plus the following code improvements:
 
-* Application's links all function correctly.
+* Application's links all function correctly. DONE
 
-* Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+* Application's CSS selectors and properties are consolidated and organized to follow semantic structure. ALMOST DONE
 
-* Application's CSS file is properly commented.
+* Application's CSS file is properly commented. ALMOST DONE
  _____
 
 ### Deployment: **32%**
@@ -50,7 +50,7 @@ ___________
 
 * Application resembles (at least 90%) screenshots provided in challenge instructions.
 _____________________
-## Repository Quality: **13%**
+### Repository Quality: **13%**
 
 * Repository has a unique name.
 
@@ -64,7 +64,7 @@ _____________________
 _______________
 #### DESCRIPTION
 
-_________________-
+_________________
 #### SCREENSHOT
 
 _______________
