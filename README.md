@@ -1,4 +1,4 @@
-# **README**
+# README
 
 ## **USER STORY**
 
@@ -7,74 +7,39 @@
 * SO THAT our own site is optimized for search engines
 ___________________________________________
 
-
 ## **ACCEPTANCE CRITERIA**
 
 * GIVEN a webpage meets accessibility standards
 * WHEN I view the source code
-* THEN I find semantic HTML elements    (DONE)
+* THEN I find semantic HTML elements    
 * WHEN I view the structure of the HTML elements
-* THEN I find that the elements follow a logical structure independent of styling and positioning                               (DONE)
+* THEN I find that the elements follow a logical structure independent of styling and positioning                              
 * WHEN I view the image elements
-* THEN I find accessible alt attributes   (DONE)
+* THEN I find accessible alt attributes  
 * WHEN I view the heading attributes
-* THEN they fall in sequential order      (DONE)
+* THEN they fall in sequential order    
 * WHEN I view the title element
-* THEN I find a concise, descriptive title   (DONE)
+* THEN I find a concise, descriptive title   
 ___________________________________________
 
-## **GRADING REQUIREMENTS**
+## DESCRIPTION OF PROJECT
 
-### Technical Acceptance Criteria: **40%**
+The purpose of this project was to refactor, or restructure
+the existing code that was given to me, so that it upheld
+accessibility standards and search engine optimization standards. 
 
-Satisfies all of the preceding acceptance criteria plus the following code improvements:
+I made sure to change the HTML non-semantic elements to semantic elements and organized the headings; I consolidated, organized, and commented on the CSS; I added alternative descriptions to the images; and made sure that the navigational links were working.
 
-* Application's links all function correctly. DONE
-
-* Application's CSS selectors and properties are consolidated and organized to follow semantic structure. DONE
-
-* Application's CSS file is properly commented. DONE
+There was no actual change made to the styling or content of the page, which can
+be seen below. 
 ___________________________________________
 
-### Deployment: **32%**
+## SCREENSHOTS OF PROJECT
 
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
+![Screenshot of Refactored Website](/assets/images/screenshot-1.png) 
+![Screenshot of Refactored Website 2](/assets/images/screenshot-2.png)
 ___________________________________________
 
-### Application Quality: **15%**
-
-* Application resembles (at least 90%) screenshots provided in challenge instructions. (DONE)
-___________________________________________
-
-### Repository Quality: **13%**
-
-* Repository has a unique name. (DONE)
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.  (DONE)
-
-* Repository contains a quality README file with description, screenshot, and link to deployed application.     (DONE)
-___________________________________________
-
-#### DESCRIPTION
-
-___________________________________________
-
-#### SCREENSHOT
-
-___________________________________________
-![Screenshot of Refactored Website](/assets/images/screenshot-challenge-1.jpg)
-
-#### LINK TO DEPLOYED WEB PAGE
-___________________________________________
+### LINK TO DEPLOYED WEB PAGE
 
 [title](https://www.example.com)
