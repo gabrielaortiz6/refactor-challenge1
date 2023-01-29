@@ -49,20 +49,20 @@ ___________________________________________
 
 ### Application Quality: **15%**
 
-* Application resembles (at least 90%) screenshots provided in challenge instructions.
+* Application resembles (at least 90%) screenshots provided in challenge instructions. (DONE)
 ___________________________________________
 
 ### Repository Quality: **13%**
 
-* Repository has a unique name.
+* Repository has a unique name. (DONE)
 
 * Repository follows best practices for file structure and naming conventions.
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-* Repository contains multiple descriptive commit messages.
+* Repository contains multiple descriptive commit messages.  (DONE)
 
-* Repository contains a quality README file with description, screenshot, and link to deployed application.
+* Repository contains a quality README file with description, screenshot, and link to deployed application.     (DONE)
 ___________________________________________
 
 #### DESCRIPTION
@@ -72,8 +72,9 @@ ___________________________________________
 #### SCREENSHOT
 
 ___________________________________________
-
+![Screenshot of Refactored Website](/Develop/assets/images/screenshot-challenge-1.jpg)
 
 #### LINK TO DEPLOYED WEB PAGE
 ___________________________________________
 
+[title](https://www.example.com)
