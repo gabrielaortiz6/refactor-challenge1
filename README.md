@@ -72,7 +72,7 @@ ___________________________________________
 #### SCREENSHOT
 
 ___________________________________________
-![Screenshot of Refactored Website](/Develop/assets/images/screenshot-challenge-1.jpg)
+![Screenshot of Refactored Website](/assets/images/screenshot-challenge-1.jpg)
 
 #### LINK TO DEPLOYED WEB PAGE
 ___________________________________________
