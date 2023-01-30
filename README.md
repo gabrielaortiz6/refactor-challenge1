@@ -42,4 +42,4 @@ ___________________________________________
 
 ### LINK TO DEPLOYED WEB PAGE
 
-[title](https://www.example.com)
+[Deployed Site](https://gabrielaortiz6.github.io/refactor-challenge1/)
